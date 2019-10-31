@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-10-24 11:58:58+0000\n"
+"PO-Revision-Date: 2019-10-31 04:13:41+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13774,7 +13774,7 @@ msgstr "既にクーポンが使用された回数。"
 
 #: packages/woocommerce-rest-api/src/Controllers/Version1/class-wc-rest-coupons-v1-controller.php:455
 msgid "UTC DateTime when the coupon expires."
-msgstr "UTC でのクーポン有効期限時間。"
+msgstr "UTC でのクーポンを停止する日。"
 
 #: packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-coupons-v2-controller.php:375
 #: packages/woocommerce-rest-api/src/Controllers/Version1/class-wc-rest-coupons-v1-controller.php:443
@@ -21995,7 +21995,7 @@ msgstr "最小額"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:117
 msgid "Coupon expiry date"
-msgstr "クーポン有効期限"
+msgstr "クーポン停止日"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:105
 msgid "Check this box if the coupon grants free shipping. A <a href=\"%s\" target=\"_blank\">free shipping method</a> must be enabled in your shipping zone and be set to require \"a valid free shipping coupon\" (see the \"Free Shipping Requires\" setting)."
